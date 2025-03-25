@@ -2,50 +2,43 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Simone",
+    "title": "Talia Benheim",
     "section": "",
-    "text": "A longer paragraph about me and my interests and anything else I like to do."
+    "text": "I am a PhD student in Health Services Research with a concentration in Health Economics at Brown University School of Public Health. My research aims to improve care quality and continuity for individuals with complex health needs. I have particular interests in nursing home staffing dynamics, post-acute care transitions, and the integration of mental/behavioral health services across various care settings. Prior to my doctoral studies, I worked as a clinical research coordinator in the Department of Psychiatry at Massachusetts General Hospital. I received my bachelor’s degree in Economics and Psychology from Wellesley College in 2021."
   },
   {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Simone",
-    "section": "Education",
-    "text": "Education\nWhere I studied"
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "Simone",
-    "section": "Experience",
-    "text": "Experience\nWhat I’ve done"
-  },
-  {
-    "objectID": "research/paper-1.html",
-    "href": "research/paper-1.html",
-    "title": "My First Paper",
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "Talia Benheim",
     "section": "",
-    "text": "A description of my paper.\nCould include a photo, or links, or anything at all!"
+    "text": "I am a PhD student in Health Services Research with a concentration in Health Economics at Brown University School of Public Health. My research aims to improve care quality and continuity for individuals with complex health needs. I have particular interests in nursing home staffing dynamics, post-acute care transitions, and the integration of mental/behavioral health services across various care settings. Prior to my doctoral studies, I worked as a clinical research coordinator in the Department of Psychiatry at Massachusetts General Hospital. I received my bachelor’s degree in Economics and Psychology from Wellesley College in 2021."
   },
   {
     "objectID": "research/index.html",
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "All of my research projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Paper\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2024\n\n\nSimone , Matthew DeHaven\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Project\n\n\n\n\n\n\n\n\n\n\n\nFeb 28, 2024\n\n\nSimone\n\n\n\n\n\n\nNo matching items"
+    "text": "Below are links to selected publications from my research.\n\n\n\nBenheim TS, Kimmel SD, George M, Dow PM \nJournal of General Internal Medicine. 2025.\nRead Paper\n\n\n\n\nButler W, Lewis KL, Benheim TS, et al. \nClinical Pediatrics. 2024.\nRead Paper\n\n\n\n\nJellinek M, Benheim TS, Dutta A, et al. \nJournal of Developmental and Behavioral Pediatrics. 2024.\nRead Paper\n\n\n\n\nBenheim TS, Murphy JM, Sheldrick RC, et al. \nAcademic Pediatrics. 2023.\nRead Paper\n\n\n\n\nBenheim TS, Dalal M, Holcomb JM, et al. \nHarvard Review of Psychiatry. 2020.\nRead Paper"
   },
   {
-    "objectID": "research/project-1.html",
-    "href": "research/project-1.html",
-    "title": "My First Project",
+    "objectID": "research/index.html#selected-publications",
+    "href": "research/index.html#selected-publications",
+    "title": "Research",
     "section": "",
-    "text": "A description of my project.\nCould include a photo, or links, or anything at all!"
+    "text": "Below are links to selected publications from my research.\n\n\n\nBenheim TS, Kimmel SD, George M, Dow PM \nJournal of General Internal Medicine. 2025.\nRead Paper\n\n\n\n\nButler W, Lewis KL, Benheim TS, et al. \nClinical Pediatrics. 2024.\nRead Paper\n\n\n\n\nJellinek M, Benheim TS, Dutta A, et al. \nJournal of Developmental and Behavioral Pediatrics. 2024.\nRead Paper\n\n\n\n\nBenheim TS, Murphy JM, Sheldrick RC, et al. \nAcademic Pediatrics. 2023.\nRead Paper\n\n\n\n\nBenheim TS, Dalal M, Holcomb JM, et al. \nHarvard Review of Psychiatry. 2020.\nRead Paper"
+  },
+  {
+    "objectID": "research/index.html#work-in-progress",
+    "href": "research/index.html#work-in-progress",
+    "title": "Research",
+    "section": "Work in progress",
+    "text": "Work in progress\n\nHospital-skilled nursing facility dynamics in access to post-acute care for people with opioid use disorder\nBenheim TS, Rahman MS, Zullo A, Ritter A, Kimmel SD, Dow PM"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Simone",
+    "title": "Talia Benheim",
     "section": "",
-    "text": "I am a Ph.D. student in upside-down studies at Sunspot University.\nMost of my current research is driven by trying to find an answer to the age-old question of “How cute am I?”\nPlease feel free to get in touch!"
+    "text": "I am a Ph.D. student in the Department of Health Services, Policy, and Practice at Brown University School of Public Health.\nMy research interests include mental health and substance use services, post-acute and long-term care, and the healthcare workforce.\nPlease feel free to get in touch!"
   }
 ]

@@ -1,25 +1,26 @@
 ---
-title: "Simone"
+title: "Talia Benheim"
 about:
   template: jolla
-  image: profile.jpg
+  image: profile.jpeg
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
-    - icon: github
-      text: Github
-      href: https://github.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
+    - icon: envelope
+      text: Email
+      href: talia_benheim@brown.edu
     - icon: google
       text: Google Scholar
-      href: https://scholar.google.com
+      href: https://scholar.google.com/citations?user=YHpk32YAAAAJ&hl=en&oi=ao
+    - icon: github
+      text: Github
+      href: https://github.com/taliabenheim
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/taliabenheim
+
 ---
 
-I am a Ph.D. student in upside-down studies at Sunspot University.
+I am a Ph.D. student in the Department of Health Services, Policy, and Practice at Brown University School of Public Health.
 
-Most of my current research is driven by trying to find an answer to the age-old question of “How cute am I?"
+My research interests include mental health and substance use services, post-acute and long-term care, and the healthcare workforce.
 
 Please feel free to get in touch!
