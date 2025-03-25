@@ -1,9 +1,52 @@
 ---
 title: "Research"
-listing:
-  type: default
-  contents:
-    - "*.qmd"
+format: html
 ---
 
-All of my research projects.
+## Selected publications
+
+Below are links to selected publications from my research.
+
+---
+
+#### **Readmissions and mortality after ‘before medically advised’ hospital discharges among Medicare beneficiaries with opioid use disorder**
+**Benheim TS, Kimmel SD, George M, Dow PM **  
+*Journal of General Internal Medicine*. 2025.  
+[<button class="btn btn-outline-secondary">Read Paper</button>](https://pubmed.ncbi.nlm.nih.gov/39875771/)
+
+---
+
+#### **Screening and follow-up treatment practices for suicide risk in adolescent primary care: A retrospective chart review**
+**Butler W, Lewis KL, Benheim TS, et al. **  
+*Clinical Pediatrics*. 2024.  
+[<button class="btn btn-outline-secondary">Read Paper</button>](https://pubmed.ncbi.nlm.nih.gov/38742439/)
+
+---
+
+#### **Identifying children and adolescents at elevated mental health risk before and during COVID-19**
+**Jellinek M, Benheim TS, Dutta A, et al. **  
+*Journal of Developmental and Behavioral Pediatrics*. 2024.  
+[<button class="btn btn-outline-secondary">Read Paper</button>](https://pubmed.ncbi.nlm.nih.gov/39146230/)
+
+---
+
+#### **Screening infants through adolescents for social/emotional/behavioral problems in a pediatric network**
+**Benheim TS, Murphy JM, Sheldrick RC, et al. **  
+*Academic Pediatrics*. 2023.  
+[<button class="btn btn-outline-secondary">Read Paper</button>](https://pubmed.ncbi.nlm.nih.gov/36280038/)
+
+---
+
+#### **Back to basics: Lifestyle interventions for adolescent depression**
+**Benheim TS, Dalal M, Holcomb JM, et al. **  
+*Harvard Review of Psychiatry*. 2020.  
+[<button class="btn btn-outline-secondary">Read Paper</button>](https://pubmed.ncbi.nlm.nih.gov/36103683/)
+
+---
+
+## Work in progress
+
+#### **Hospital-skilled nursing facility dynamics in access to post-acute care for people with opioid use disorder**
+**Benheim TS, Rahman MS, Zullo A, Ritter A, Kimmel SD, Dow PM **  
+
+---
