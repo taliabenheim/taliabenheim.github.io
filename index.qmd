@@ -6,7 +6,7 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: talia_benheim@brown.edu
+      href: "mailto:talia_benheim@brown.edu"
     - icon: google
       text: Google Scholar
       href: https://scholar.google.com/citations?user=YHpk32YAAAAJ&hl=en&oi=ao
